@@ -1,0 +1,16 @@
+@tailwind base;
+
+@layer base {
+
+    html {
+        @apply text-gray-800;
+    }
+
+    h1, h2, h3, h4, h5 {
+        @apply text-primary;
+    }
+
+}  
+
+@tailwind components;
+@tailwind utilities;
