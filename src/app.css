@@ -3,7 +3,11 @@
 @layer base {
 
     html {
-        @apply text-gray-800;
+        @apply text-grayDark;
+    }
+
+    a {
+        @apply text-primaryDark;
     }
 
     h1, h2, h3, h4, h5 {
