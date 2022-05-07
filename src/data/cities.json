@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Hamburg",
+        "populationCity": 1845229,
+        "populationUrban": 2484800,
+        "populationMetro": 5107429,
+        "area": 755.22
+    },
+    {
+        "name": "Bamberg",
+        "populationCity": 76674,
+        "populationUrban": null,
+        "populationMetro": null,
+        "area": 54.62
+    },
+    {
+        "name": "Odense",
+        "populationCity": 180760,
+        "populationUrban": 180760,
+        "populationMetro": 204895,
+        "area": 79.3
+    },
+    {
+        "name": "Osaka",
+        "populationCity": 2753862,
+        "populationUrban": null,
+        "populationMetro": 19303000,
+        "area": 225.21
+    },
+    {
+        "name": "Singapore",
+        "populationCity": 5453600,
+        "populationUrban": 5453600,
+        "populationMetro": 5453600,
+        "area": 733.1
+    }
+]
